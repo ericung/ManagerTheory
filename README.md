@@ -17,13 +17,17 @@
 
 ![04CalculationsOfOATI](Resources/04CalculationsOfOATI.jpg)
 
-### 5. Total Revenue From Zippia
+### 5. Zippia The Startup
 
 ![05TotalRevenueFromZippia](Resources/05ZippiaTheStartup.jpg)
 
-### 6. Zippia The Startup
+### 6. The Ideal Salary
 
-![06ZippiaTheStartup](Resources/06Conclusion.jpg)
+![06TheIdealSalary](Resources/06TheIdealSalary.jpg)
+
+### 7. Conclusion
+
+![Conclusion](Resources/07Conclusion.jpg)
 
 -----
 
