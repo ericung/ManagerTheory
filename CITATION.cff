@@ -1,20 +1,20 @@
-cff-version: 1.0.1
+cff-version: 1.0.0
 message: "If you want to cite this article, please cite it as below."
 authors:
 - family-names: "Eric"
   given-names: "Ung"
   orcid: "https://orcid.org/0009-0008-6122-4557"
-title: "A Language Of Polynomials"
-version: 1.0.1
-date-released: 2023-11-01
-url: "https://github.com/ericung/languageofpolynomials"
+title: "Manager Theory"
+version: 1.0.0
+date-released: 2024-02-14
+url: "https://github.com/ericung/ManagerTheory"
 preferred-citation:
-  version: 1.0.1
+  version: 1.0.0
   type: article
-  url: "https://github.com/ericung/languageofpolynomials"
+  url: "https://github.com/ericung/ManagerTheory"
   authors:
   - family-names: "Ung"
     given-names: "Eric"
     orcid: "https://orcid.org/0009-0008-6122-4557"
-  title: "A Language Of Polynomials"
-  year: 2023
+  title: "Manager Theory"
+  year: 2024

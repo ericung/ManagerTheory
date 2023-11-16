@@ -1,33 +1,35 @@
 # Manager Theory
 
-### 1. 
+### 1. The Product Of A Company
 
 ![01TheProductOfACompany](Resources/01TheProductOfACompany.jpg)
 
-### 2.
+### 2. Calculation Of Accenture
 
 ![02CalculationsOfAccenture](Resources/02CalculationsOfAccenture.jpg)
 
-### 3.
+### 3. Calculation Of Omnitracs
 
 ![03CalculationsOfOmnitracs](Resources/03CalculationsOfOmnitracs.jpg)
 
 
-### 4.
+### 4. Calculation Of OATI
 
 ![04CalculationsOfOATI](Resources/04CalculationsOfOATI.jpg)
 
-### 5.
+### 5. Total Revenue From Zippia
 
 ![05TotalRevenueFromZippia](Resources/05ZippiaTheStartup.jpg)
 
-### 6.
+### 6. Zippia The Startup
 
 ![06ZippiaTheStartup](Resources/06Conclusion.jpg)
 
 -----
 
 ### References
+
+Ung, E. (2023). The Value Of An Employee. https://github.com/ericung/TheValueOfAnEmployee/tree/main
 
 [Accenture Fiscal 2022 Annual Report](Resources/Accenture-Fiscal-2022-Annual-Report). (2023)
 
