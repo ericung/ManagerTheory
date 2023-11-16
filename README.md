@@ -31,7 +31,7 @@
 
 -----
 
-### References
+# References
 
 Ung, E. (2023). The Value Of An Employee. https://github.com/ericung/TheValueOfAnEmployee/tree/main
 
